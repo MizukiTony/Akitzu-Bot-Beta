@@ -90,8 +90,6 @@ npm install && npm update && npm audit --force
 npm start
 ```
 
----
-
 #### **🟢 Activar en caso de detenerse en termux**
 
 Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
@@ -195,7 +193,7 @@ npm start
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git && cd Akitzu-Bot-MD && npm install && npm update && node .
+git clone https://github.com/MizukiTony/Akitzu-Bot-MD && cd Akitzu-Bot-MD && npm install && npm update && node .
 ```
 
 </details>

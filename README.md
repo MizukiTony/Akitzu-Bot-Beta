@@ -214,7 +214,7 @@ git clone https://github.com/MizukiTony/Akitzu-Bot-MD && cd Akitzu-Bot-MD && npm
 Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 * Ahora que tiene FFmpeg instalado, verifique que funcionó ejecutando este comando para ver la versión:
 ```cmd
-> ffmpeg -version
+ > ffmpeg -version
 ```
 
 </details>
@@ -225,9 +225,9 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820) |
+| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VakLSyb7DAWruqa3jn22) |
 | WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
-| WhatsApp | Gc Megumin | [¡Click aquí!](https://chat.whatsapp.com/F4QEFF2Hn4102NdbPJ2ZOi) |
+| WhatsApp | Gchat Akitzu | [¡Click aquí!](https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K) |
 
 ---
 

@@ -42,16 +42,16 @@ let handler = async (m, { conn, prefijo, text, args, command }) => {
 
     let listSections = []
 listSections.push({
-title: `✎ SELECCIÓNA LO QUE NECESITES`, highlight_label: `Popular Megumin`,
+title: `✎ SELECCIÓNA LO QUE NECESITES`, highlight_label: `Akitzu`,
 rows: [
 {
 title: "│🤴│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ", 
-description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ᴅᴀᴠɪᴅ ᴄʜɪᴀɴ",
+description: "ɴᴜᴍᴇʀᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ Mizuki Tony",
 id: `${prefijo}owner`,
 },
 {
 title: "│🔥│ɢʀᴜᴘᴏs ᴏғᴄ ᴅᴇʟ ʙᴏᴛ", 
-description: "ᴏʙᴛᴇɴ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ᴍᴇɢᴜᴍɪɴ-ʙᴏᴛ",
+description: "ᴏʙᴛᴇɴ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ Akitzu-ʙᴏᴛ",
 id: `${prefijo}grupos`,
 },
 {
@@ -61,7 +61,7 @@ id: `${prefijo}estado`,
 },
 {
 title: "│❔│ɪɴғᴏ ᴅᴇʟ ʙᴏᴛ", 
-description: "ᴏʙᴛᴇɴ ʟᴀ ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴅᴇ ᴍᴇɢᴜᴍɪɴ-ʙᴏᴛ",
+description: "ᴏʙᴛᴇɴ ʟᴀ ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴅᴇ AKitzu-ʙᴏᴛ",
 id: `${prefijo}infobot`,
 },
 {
@@ -97,7 +97,7 @@ id: `${prefijo}ds`,
 ],
 },
 {
-title: 'Mᴇɴᴜs ᴅᴇ Mᴇɢᴜᴍɪɴ-Bᴏᴛ', highlight_label: "Popular",
+title: 'Mᴇɴᴜs ᴅᴇ Akitzu-Bᴏᴛ', highlight_label: "Popular",
 rows: [
 {
 title: "│✨│ᴍᴇɴᴜ ᴄᴏᴍᴘʟᴇᴛᴏ", 
@@ -141,7 +141,7 @@ id: `${prefijo}serbot`,
 },
 {
 title: "│🗑│ᴅᴇʟᴇᴛᴇʙᴏᴛ", 
-description: "ᴇʟɪᴍɪɴᴀ ᴛᴜ ᴄᴏᴘɪᴀ (sᴜʙʙᴏᴛ) ᴅᴇ ᴍᴇɢᴜᴍɪɴ-ʙᴏᴛ",
+description: "ᴇʟɪᴍɪɴᴀ ᴛᴜ ᴄᴏᴘɪᴀ (sᴜʙʙᴏᴛ) ᴅᴇ Akitzu-ʙᴏᴛ",
 id: `${prefijo}deletebot`,
 },
 {

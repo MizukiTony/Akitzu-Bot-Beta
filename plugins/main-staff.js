@@ -5,12 +5,17 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 
 👑 *Propietario:*
 
-• Diamond
-🍟 *Rol:* Propietario
-🚩 *Número:* wa.me/5351524614
-✨️ *GitHub:* https://github.com/David-Chian
+• Mizuki_Tony
+🍟 *Rol:* Propietario De Esta Raiz
+🚩 *Número:* wa.me/584120405140
+✨️ *GitHub:* https://github.com/MizukiTony
 
 🌸  *Colaboradores:*
+
+• Diamond
+🍟 *Rol:* Propietario De la Base del Bot Original
+🚩 *Número:* wa.me/5351524614
+✨️ *GitHub:* https://github.com/David-Chian
 
 • Miguelon
 🍟 *Rol:* Developer

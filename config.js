@@ -9,7 +9,7 @@ import moment from 'moment-timezone';
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botnumber = '' //Ejemplo: +573138954963
+global.botnumber = '' //Ejemplo: +58416945860
 global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
@@ -37,7 +37,7 @@ global.jadi = 'AkitzuJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `🔥⭑𝗠𝗲𝗴𝘂𝗺𝗶𝗻-𝗕𝗼𝘁⭑(^_^♪)`
+global.packname = `🔥Akitzu-Bot`
 global.author = `♾━━━━━━━━\n⇝͟͞ ۵̤͟Akitzu♡̵̑ ͟͞   ᷨᜳ ͦ ̵ͭ⋆\n⇝ ۵-̱̅Mizuki_Tony-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭ⷭAkitzu𓆪͟͞ `;
 global.wm = 'ৎ୭ⷭ͢AKitzu-Bot𓆪͟͞ ';
 global.titulowm = '͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞';
@@ -95,21 +95,21 @@ global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 
 global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐒𝐭𝐢𝐜𝐤𝐞𝐫 (^_^♪) 💥', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Akitzu-Bot💥', jpegThumbnail: logo5 }}};
 
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾMizuki_Tonyꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\n  ͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂ
 ৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/F4QEFF2Hn4102NdbPJ2ZOi' //Grupo Oficial De Megumin
-global.gp1 = 'https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn'//
-global.comunidad1 = 'https://chat.whatsapp.com/GPEtINYPyIB6a6S55ZJcAO' //Comunidad Megumin
+global.gp4 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficial De Akitzu
+global.gp1 = 'https://chat.whatsapp.com/IGYE9b35vIpHn5SRAh161s' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/GGKxihqi5Jj0JUOyeFsZMR'//
+global.comunidad1 = 'https://chat.whatsapp.com/IfUcTIF5VMnK75zXNb98pu' //Comunidad Akitzu
 global.channel = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820' //Canal Oficial
-global.yt = 'https://youtube.com/@davidchian4957' //Canal De Youtube
-global.md = 'https://github.com/David-Chian/Megumin-Bot-MD' //Github Oficial
-global.correo = 'noisebot@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.yt = 'www.youtube.com/@Mizuki_Tony' //Canal De Youtube
+global.md = 'https://github.com/MizukiTony/Akitzu-Bot-MD' //Github Oficial
+global.correo = 'mizuki.tony.oficial@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VakLSyb7DAWruqa3jn22';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
@@ -124,8 +124,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMegumin - Bot`;
-global.nomorown = '5351524614';
+global.wm2 = `${dia} ${fecha}\nAkitzu - Bot`;
+global.nomorown = '584120405140';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

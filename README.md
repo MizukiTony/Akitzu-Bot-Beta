@@ -3,8 +3,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Akitzu+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Mizuki+Tony;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
-![Megumin](https://telegra.ph/file/b8170842d84523340c674.jpg)
-
+![Megumin](https://files.fm/u/7zszyps2bf)
 ---
 
 ### **`❕️ Información importante`**

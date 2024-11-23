@@ -75,14 +75,15 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git
+git clone https://github.com/MizukiTony/Akitzu-Bot-MD
+```
 
-```bash
+```bash 
 yarn install
 ```
 
 ```bash
-npm install
+npm install && npm update && npm audit --force
 ```
 
 ```bash
@@ -116,14 +117,14 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
     cd Akitzu-Bot-MD
     ```
 
-2. Elimina la carpeta MiniSession:
+2. Elimina la carpeta AkitzuSession:
     ```bash
     rm -rf AkitzuSession
     ```
 
 3. Inicia el bot nuevamente:
     ```bash
-    npm start
+    npm start 
     ```
 
 ---
@@ -151,19 +152,19 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 [`💥 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 ```bash
-> git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git
+git clone https://github.com/MizukiTony/Akitzu-Bot-MD
 ```
 
 ```bash
-> cd Akitzu-Bot-MD && yarn install
+cd Akitzu-Bot-MD && yarn install
 ```
 
 ```bash
-> npm install
+npm install && npm update && npm audit --force
 ```
 
 ```bash
-> npm start
+npm start
 ```
 
 </details>
@@ -239,7 +240,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### **`👑 PROPIETARIO`**
 <a
-href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
+href="https://github.com/MizukiTony"><img src="https://github.com/MizukiTony.png" width="130" height="130" alt="David"/></a>
 
 ### **`🌹 CREDITOS`**
 <a

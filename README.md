@@ -1,4 +1,4 @@
-<h1 align="center"> Rama De Megumin Bot - MD 💥</h1>
+<h1 align="center"> Akitzu Bot - MD 💥</h1>
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
@@ -76,8 +76,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD 
-```
+git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git
 
 ```bash
 yarn install
@@ -99,7 +98,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Megumin-Bot-MD
+    cd Akitzu-Bot-MD
     ```
 
 2. Inicia el bot nuevamente:

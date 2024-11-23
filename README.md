@@ -58,7 +58,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/David-Chian/Megumin-Bot-MD/master/megu.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.https://github.com/MizukiTony/Akitzu-Bot-MD.git/master/megu.sh | bash
 ```
 
 #### **🌺 Instalación manual por termux**
@@ -114,12 +114,12 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Megumin-Bot-MD
+    cd Akitzu-Bot-MD
     ```
 
 2. Elimina la carpeta MiniSession:
     ```bash
-    rm -rf MeguminSession
+    rm -rf AkitzuSession
     ```
 
 3. Inicia el bot nuevamente:
@@ -152,11 +152,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 [`💥 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 ```bash
-> git clone https://github.com/David-Chian/Megumin-Bot-MD
+> git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git
 ```
 
 ```bash
-> cd Megumin-Bot-MD && yarn install
+> cd Akitzu-Bot-MD && yarn install
 ```
 
 ```bash
@@ -195,7 +195,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD && npm install && npm update && node .
+git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git && cd Akitzu-Bot-MD && npm install && npm update && node .
 ```
 
 </details>

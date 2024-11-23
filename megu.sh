@@ -2,7 +2,7 @@
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución     
-COMANDOS = "pkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/David-Chian/Megumin-Bot-MD\ncd Megumin-Bot-MD\nyarn install\nnpm install\nnpm start"
+COMANDOS = "pkg install git -y\npkg install nodejs -y\npkg install ffmpeg -y\npkg install imagemagick -y\npkg install -y yarn\ngit clone https://github.com/MizukiTony/Akitzu-Bot-MD\ncd Akitzu-Bot-MD\nyarn install\nnpm install\nnpm start"
 
 echo -e "\e[35m
 
@@ -134,11 +134,11 @@ echo -e "\e[35m
 ╚═╝░░╚═╝░░╚═╝░░  ╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝\n\e[0m"
 
 echo -e "\033[1;35m"
-git clone https://github.com/David-Chian/Megumin-Bot-MD.git
+git clone https://github.com/MizukiTony/Akitzu-Bot-MD.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\nThe clone has been downloaded and installed successfully.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
-cd Megumin-Bot-MD
+cd Akitzu-Bot-MD
 
 echo -e "\e[36m
 █░█ █▀█ █▀▄ ▄▀█ ▀█▀ █▀▀   █▄█ ▄▀█ █▀█ █▄░█
@@ -174,16 +174,16 @@ echo -e "\e[36m
 ┗━━━━━━━━━⪩
 
 ✰ Mode by:
-» DavidChian
+» Mizuki_Tony
 ✰ Youtube:
-» https://youtube.com/@davidchian4957
+» www.youtube.com/@Mizuki_Tony
 ✰ GitHub:
-» https://github.com/David-Chian
+» https://github.com/MizukiTony
 ✰ Numero:
-» +53 5 1524614
+» +58 4120405140
 
 𝐆 𝐑 𝐀 𝐂 𝐈 𝐀 𝐒, 𝐏 𝐎 𝐑, 𝐏 𝐑 𝐄 𝐅 𝐄 𝐑 𝐈 𝐑 𝐍 𝐎 𝐒\n\e[0m"
 
 
-echo -e "\033[01;32m\033[01mIniciando MeguminBot 💥\nMegumin Bot - MD\n\033[0m"
+echo -e "\033[01;32m\033[01mIniciando Akitzu Bot 💥\nAkitzu Bot - MD\n\033[0m"
 npm start

@@ -1,7 +1,7 @@
 {
-"name": "Megumin-Bot-MD",
+"name": "Akitzu-Bot-MD",
 "version": "3.0.3",
-"description": "El Bot Más Explosivo De WhatsApp",
+"description": "El Bot Más Magico De WhatsApp",
 "main": "index.js",
 "type": "module",
 "directories": {
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/David-Chian/Megumin-Bot-MD",
+"homepage": "https://github.com/MizukiTony/Akitzu-Bot-MD",
 "author": {
-"name": "David-Chian"
+"name": "Mizuki-Tony"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/David-Chian/Megumin-Bot-MD.git"
+"url": "git+https://github.com/MizukiTony/Akitzu-Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/David-Chian/Megumin-Bot-MD/issues"
+"url": "https://github.com/MizukiTony/Akitzu-Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {

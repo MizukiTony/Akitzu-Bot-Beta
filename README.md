@@ -3,7 +3,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Akitzu+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Mizuki+Tony;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
-![Akitzu](https://t.me/Anime_Sensei_Chats/24)
+[![Akitzu.jpg](https://i.postimg.cc/KY45kXK4/Akitzu.jpg)](https://postimg.cc/B89FkVBG)
 ---
 
 ### **`❕️ Información importante`**

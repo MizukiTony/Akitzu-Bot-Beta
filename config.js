@@ -14,8 +14,8 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['573138954963', '💥 𝗔𝗸𝗶𝘁𝘇𝘂 (𝗨𝘄𝗨♪)', true],
-  ['584120405140', '🔥 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 (◣_◢)凸', true],
+  ['573138954963', '✨ 𝗔𝗸𝗶𝘁𝘇𝘂 (𝗨𝘄𝗨♪)', true],
+  ['584120405140', '⚔️ 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 ⚔️', true],
   ['584169458860']
 ];
 
@@ -23,7 +23,7 @@ global.owner = [
 global.mods = ['584120505140', '5218711426787', '', '', '']
 
 global.suittag = ['584120405140']
-global.prems = []
+global.prems = ['584120405140']
 
 //cambiar a true si el bot detecta sus propios comandos.
 global.isBaileysFail = false
@@ -32,22 +32,22 @@ global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
 global.nameqr = 'Akitzu-Bot-MD'
-global.sessions = 'AkitzuinSession'
-global.jadi = 'AkitzuJadiBot'
+global.sessions ='AkitzuSession'
+global.jadi = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴶᵃᵈᶦᴮᵒᵗ✰⃔࿐ೄྀ'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `🔥Akitzu-Bot`
+global.packname = `✨Akitzu-Bot`
 global.author = `♾━━━━━━━━\n⇝͟͞ ۵̤͟Akitzu♡̵̑ ͟͞   ᷨᜳ ͦ ̵ͭ⋆\n⇝ ۵-̱̅Mizuki_Tony-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭ⷭAkitzu𓆪͟͞ `;
-global.wm = 'ৎ୭ⷭ͢AKitzu-Bot𓆪͟͞ ';
-global.titulowm = '͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞';
-global.titulowm2 = `͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞`
-global.igfg = 'Mizuki_Tony'
+global.wm = 'ৎ୭ⷭ͢⏤͟͟͞͞𝐀𝐤𝐢𝐭𝐳𝐮-𝐁𝐨𝐭-𓆪͟͞ ';
+global.titulowm = '͟͞ ৎ୭࠭͢💥Z̷a̷r̷p̷a̷z̷o̷🔥̤𓆪 ͟͞';
+global.titulowm2 =  '͟͞ ৎ୭࠭͢💥̷͟Z̷a̷r̷p̷a̷z̷o̷🔥̤𓆪 ͟͞'
+global.igfg = '⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ'
 global.botname = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥙᥒᥣіgһ𝗍 𝗍ᥱᥲm ❀'
-global.textbot = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ : Mizuki_Tony'
-global.gt = '͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞';
-global.namechannel = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ/Mizuki_Tony'
+global.textbot = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ : ⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ'
+global.gt = '͟͞ ৎ୭࠭͢💥Z̷a̷r̷p̷a̷z̷o̷🔥̤ ͟͞';
+global.namechannel = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ/⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -89,16 +89,15 @@ global.sickerque = [que, que2, que3, que4, que5, que6]
 global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕✨', jpegThumbnail: logo5 }}};
+global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕✨', jpegThumbnail: logo5 }}};
 
-global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
+global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒕𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Akitzu-Bot💥', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒕𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𝘼𝙠𝙞𝙩𝙯𝙪-𝘽𝙤𝙩💥', jpegThumbnail: logo5 }}};
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾMizuki_Tonyꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\ Mizuki_Yony`
-ৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":'`⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`', "h": `Hmm`,'seconds': '99999', gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ', 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficial De Akitzu
@@ -112,7 +111,7 @@ global.correo = 'mizuki.tony.oficial@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VakLSyb7DAWruqa3jn22';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
-global.saludo = '🍭' + hour;
+global.saludo = '🍨' + hour;
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363307382381547@newsletter", serverMessageId: 100, newsletterName: namechannel, }, }, }
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
@@ -127,14 +126,14 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nAkitzu - Bot`;
 global.nomorown = '584120405140';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
-global.cmenut = '❖––––––『';
-global.cmenub = '┊✦ ';
+global.cmenut = '☄︎––––––『';
+global.cmenub = '┊✰ ';
 global.cmenuf = '╰━═┅═━––––––๑\n';
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ';
 global.dmenut = '*❖─┅──┅〈*';
 global.dmenub = '*┊»*';
 global.dmenub2 = '*┊*';
-global.dmenuf = '*╰┅────────┅✦*';
+global.dmenuf = '٭╰┅────────┅✦*';
 global.htjava = '⫹⫺';
 global.htki = '*⭑•̩̩͙⊱•••• ☪*';
 global.htka = '*☪ ••••̩̩͙⊰•⭑*';
@@ -211,7 +210,7 @@ global.rpg = {
     string = string.toLowerCase();
     const emot = {
       level: '🧬 Nivel',
-      cookies: '🍪 Cookies',
+      Helado: '🍨 Helado',
       exp: '⚡ Experiencia',
       bank: '🏦 Banco',
       diamond: '💎 Diamante',
@@ -304,7 +303,7 @@ global.rpgg = { // Solo emojis
     string = string.toLowerCase();
     const emott = {
       level: '🧬',
-      cookies: '🍪',
+      helado: '🍨',
       exp: '⚡',
       bank: '🏦',
       diamond: '💎+',
@@ -397,7 +396,7 @@ global.rpgshop = { // Tienda
     string = string.toLowerCase();
     const emottt = {
       exp: '⚡ Experiencia',
-      cookies: '🍪 Cookies',
+      Helado: '🍨 Cookies',
       diamond: '💎 Diamante',
       joincount: '💰 Token',
       emerald: '💚 Esmeralda',
@@ -474,7 +473,7 @@ global.rpgshopp = { // Tienda
     string = string.toLowerCase();
     const emotttt = {
       exp: '⚡',
-      cookies: '🍪',
+      Helado: '🍨',
       diamond: '💎+',
       joincount: '💰',
       emerald: '💚',

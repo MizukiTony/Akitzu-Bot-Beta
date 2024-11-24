@@ -243,6 +243,7 @@ href="https://github.com/MizukiTony"><img src="https://github.com/MizukiTony.png
 ### **`🌹 CREDITOS`**
 <a
 href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
+
 <a
 href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
 

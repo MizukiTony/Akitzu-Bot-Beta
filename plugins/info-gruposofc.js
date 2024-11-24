@@ -5,24 +5,24 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
  await m.react('⚡️')
 let str = `*📍 GRUPO OFICIAL*
 
-   *_〾̷̸‣⃝⃨⃛⃰⁝̵̓ᝒ̷̸͙🌸̶̩ܻᝒ̷̸꯭͙𝝡꯭𝝣꯭𝗚꯭𝗨꯭𝗠꯭𝗜꯭𝗡᭄𓆩֟֯፝𓆪𝝣⃯ᵴͦ𝛒⃨ᷫ𝛆ͨ🄲⃪⃯𝛊ᷨ𝛂⃨ͦꝆ᷽ͭ🍁⃝⃙̻⃮̋⃛⃰⁌̷̸̊͟⿻᳔̶̷̸_*
-  ┃🧸❏ ${gp4}
+   *⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑sᴏᴘᴏʀ⃢ᴛᴇ✰⃔࿐ೄྀ*
+  ┃🧸❏ https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K
 
-   *_ ͟͞〾⃝̵͡𝑬⃗ꭙȾ⃯𝑟𝘦𝑚⃖𝚎֟֯፝͜❀̵⃕ ̤🄷𝕖ᷨɳͦᵵͭ𝐚͢𝖏♡̵̭̭̎͟͞ ₂₀፝֟֯࣪࣪࣪₁₂_*
-┃🧸❏ https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt
+   *🔥༺ღ༒+18༒ღ༻🔥*
+┃🧸❏ https://chat.whatsapp.com/HbZpx5kVRALHaANdR9UKAM
    
-   *_Grupo de antojar 3.0_*
-┃🧸❏ https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn
+   *＊•̩̩͙✩•̩̩͙*𝑇𝑒𝑎𝑚 𝑅𝑎𝑛𝑑𝑜𝑤*•̩̩͙✩•̩̩͙＊*
+┃🧸❏ https://chat.whatsapp.com/GGKxihqi5Jj0JUOyeFsZMR
 
-   *_Grupo Colaboración Yaemori_*
-┃❤️‍🔥❏ https://chat.whatsapp.com/HjVwC835OWgERQYhspnMW8
+   *𝑳𝒐𝒔 𝒕𝒓𝒂𝒖𝒎𝒂𝒅𝒐𝒔. 🔥*
+┃❤️‍🔥❏ https://chat.whatsapp.com/IGYE9b35vIpHn5SRAh161s
 
    *_Canal Oficial_*
-┃❤️‍🔥❏ https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820
+┃❤️‍🔥❏ https://whatsapp.com/channel/0029VakLSyb7DAWruqa3jn22
 `
-await conn.sendButton(m.chat, str, `͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞\n` + wm, media, [
+await conn.sendButton(m.chat, str, `͟͞⏤͟͞ ⁞𝙈𝙞𝙯𝙪𝙠𝙞☄️⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ\n` + wm, media, [
 ['Menu Lista 💖', '/lista']], null, [
-['⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐', `${md}`]], fkontak)}
+['⏤͟͞ ⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ', `${md}`]], fkontak)}
                       
 handler.command = ['grupos','linksk','gruposofc','gruposoficiales']
 handler.register = true

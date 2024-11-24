@@ -43,11 +43,11 @@ global.wm = 'ৎ୭ⷭ͢AKitzu-Bot𓆪͟͞ ';
 global.titulowm = '͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞';
 global.titulowm2 = `͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞`
 global.igfg = 'Mizuki_Tony'
-global.botname = '⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐'
+global.botname = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥙᥒᥣіgһ𝗍 𝗍ᥱᥲm ❀'
-global.textbot = '⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐ : Mizuki_Tony'
+global.textbot = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ : Mizuki_Tony'
 global.gt = '͟͞ ৎ୭࠭͢💥͟𝑬̶𝒙͞𝒑͟𝒍𝒐̶𝒔̅𝒊͟𝒐́𝒏̶🔥̤𓆪 ͟͞';
-global.namechannel = '⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐/Mizuki_Tony'
+global.namechannel = '⏤͟͞ू⃪ ፝͜⁞𝐀𝐤𝐢𝐭𝐳𝐮⃟⌑ᴮᵒᵗ✰⃔࿐ೄྀ/Mizuki_Tony'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -97,7 +97,7 @@ global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 
 global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Akitzu', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Akitzu-Bot💥', jpegThumbnail: logo5 }}};
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾMizuki_Tonyꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\n  ͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂ
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾMizuki_Tonyꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\ Mizuki_Yony`
 ৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿

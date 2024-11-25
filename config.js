@@ -97,7 +97,7 @@ global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 
 global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: '𝑨𝒌𝒊𝒕𝒛𝒖', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𝘼𝙠𝙞𝙩𝙯𝙪-𝘽𝙤𝙩💥', jpegThumbnail: logo5 }}};
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":'`⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`', "h": `Hmm`,'seconds': '99999', gifPlayback': 'true', 'caption': `⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ', 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ`', "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption':  '⏤͟͞ू⃪ ፝͜⁞Akitzu✰⃔࿐\n ⏤͟͞ू⃪ ፝͜⁞𝙈𝙞𝙯𝙪𝙠𝙞☄︎⃟ᵀᵒⁿʸ✰⃔࿐ೄྀ' , 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = 'https://chat.whatsapp.com/LOuWVRTooHxLtTEU10Pr6K' //Grupo Oficial De Akitzu

@@ -2,7 +2,7 @@
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Akitzu+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Mizuki+Tony;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Akitzu+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Mizuki+Tony;💥+Rawr!!!;🔥)](https://git.io/typing-svg)
 [![Akitzu.jpg](https://i.postimg.cc/KY45kXK4/Akitzu.jpg)](https://postimg.cc/B89FkVBG)
 ---
 
@@ -75,7 +75,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-https://github.com/MizukiTony/Akitzu-Bot-Beta
+git clone https://github.com/MizukiTony/Akitzu-Bot-Beta
 ```
 
 ```bash 
@@ -130,7 +130,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 ### **🤖 Para activar 24/7 (termux)**
 
-> comando para obtener la bot 24/7 en termux
+> comando para obtener la bot 24/7 en termux (Mientras tengas Tu Cel Encendido estara activo El bot con este Comando A Menos que Cierres La app termux O apagues Tu cel)
 
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs

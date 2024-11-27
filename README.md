@@ -48,7 +48,7 @@
 <details>
  <summary><b> 🌸 Comandos</b></summary>
 
-#### **✨️ Instalación automatica por termux**
+#### **✨️ Instalación automatica por termux (No lo Recomiendo)**
 
 > Copia los códigos uno por uno, no los pegues todos juntos a la vez.
 
@@ -60,7 +60,7 @@ termux-setup-storage
 apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.https://github.com/MizukiTony/Akitzu-Bot-MD.git/master/megu.sh | bash
 ```
 
-#### **🌺 Instalación manual por termux**
+#### **🌺 Instalación manual por termux (Recomendado)**
 
 ```bash
 termux-setup-storage
@@ -72,10 +72,10 @@ apt-get update -y && apt-get upgrade -y
 
 ```bash
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-```
 
 ```bash
-git clone https://github.com/MizukiTony/Akitzu-Bot-MD
+
+https://github.com/MizukiTony/Akitzu-Bot-Beta
 ```
 
 ```bash 

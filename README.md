@@ -72,9 +72,9 @@ apt-get update -y && apt-get upgrade -y
 
 ```bash
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+```
 
 ```bash
-
 https://github.com/MizukiTony/Akitzu-Bot-Beta
 ```
 
@@ -95,11 +95,12 @@ npm start
 Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
 
 1. Abre Termux y navega al directorio del bot:
-    ```bash
+
+   ```bash
     cd Akitzu-Bot-MD
     ```
 
-2. Inicia el bot nuevamente:
+3. Inicia el bot nuevamente:
     ```bash
     npm start
     ```
